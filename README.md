@@ -233,6 +233,7 @@ Sublime Text常用的插件：
 * [Alignment](https://packagecontrol.io/packages/Alignment)：用于代码对齐;
 * [JsFormat](https://packagecontrol.io/packages/JsFormat)：用于JavaScript格式化;
 * [jQuery](https://packagecontrol.io/packages/jQuery)：jQuery插件;
+* [ColorPicker](https://packagecontrol.io/packages/ColorPicker):用于颜色选取
 
 Atom常用的插件：
 
